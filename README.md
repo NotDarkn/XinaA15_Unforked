@@ -1,6 +1,19 @@
-# XinaA15 (GitHub) Reworded
-XinaA15 is an iOS 15.0 to 15.1.1 jailbreak made for A12 and above devices in mind. The person who makes XinaA15 however is Chinese, so their translations and grammar is absolutely horrendous when reading it in English.
+# XinaA15 Reworded
+XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13. 
+It is unsure if XinaA15 will add more versions to support XinaA15, so time will tell for the time being.
 
- This GitHub is intended to fix all of the grammar mistakes and make the release notes look a lot nicer.
- 
- Everything such as the Sileo-fix.ipa's, the XinaA15.ipa's, and more are all from the official GitHub, the only edits I am making are the text files and their grammar.
+# This is not the official XinaA15 GitHub!
+This GitHub is meant to fix all of the grammar and spelling mistakes created by Xina and Jacksight, as they are Chinese and are NOT native English speakers.
+All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
+
+# Files unaffected:
+- Sileo IPA's
+- Xina IPA's
+- Links found in this README.md
+
+# Need support for XinaA15?
+1. Create an issue on either their GitHub:
+https://github.com/jacksight/xina520_official_jailbreak
+
+2. Join their Discord Server (unofficial, the official one was deleted by Jack):
+https://discord.gg/vFpnTUSD4H
