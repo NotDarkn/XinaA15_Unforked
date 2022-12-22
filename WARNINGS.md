@@ -9,6 +9,8 @@ Please take the proper precautions above.
 
 This jailbreak was **NOT** made for normal public use, and because of that you WILL encounter issues at some point.
 
+Not only that, but this jailbreak is a **rootless jailbreak.** There will be **MANY TWEAKS** that do not support rootless, and will need to be updated to support rootless environments. If you install a root-only tweak, then you may encounter any of the issues below. Please be careful of what you install.
+
 Issues that COULD occur if used wrong:
 - Bootlooping
 - Losing data
