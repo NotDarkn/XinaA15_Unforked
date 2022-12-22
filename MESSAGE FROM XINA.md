@@ -69,8 +69,7 @@ jailbreak_ safe (non ending) function can be started again without exploiting vu
 
 Jailbreakd (cannot be ended) Function signature and all signing permission related operations
 
-### **BUGS**
-White icon of known third-party system process (will be solved in future update)
+### **Extra**
 
 If Xina has more to say or update in his message, I will update this .txt.
 
