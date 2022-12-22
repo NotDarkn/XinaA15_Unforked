@@ -8,6 +8,7 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 
 # Please make sure to read the following files:
 - MESSAGE FROM XINA.md
+- SUPPORTED.md
 - WARNINGS.md
 
 # Files unaffected:
