@@ -1,6 +1,6 @@
 # XinaA15 Reworded
-XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13. 
-It is unsure if XinaA15 will add more versions to support XinaA15, so time will tell for the time being.
+XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13.
+It's currently unsure if Xina520 will add additional support for more iOS versions in the future.
 
 # This is not the official XinaA15 GitHub!
 This GitHub is meant to fix all of the grammar and spelling mistakes created by Xina and Jacksight, as they are Chinese and are NOT native English speakers.
