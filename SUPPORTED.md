@@ -20,7 +20,7 @@ Anyways, make sure to take any precautions when using this on your device.
 - iPhone 11 (A13)
 - iPhone 12 (A14)
 - iPhone 13 (A15)
-- iPad Pro 11.3in 3rd Generation (M1)
+- iPad Pro 11in 3rd Generation (M1)
 - iPad Pro 12.9in 5th Generation (M1)
 - iPad Mini 5th Generation (A12)
 - iPad Mini 6th Generation (A15)
