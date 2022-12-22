@@ -23,4 +23,4 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 https://github.com/jacksight/xina520_official_jailbreak
 
 2. Join their Discord Server (unofficial, the official one was deleted by Jack):
-https://discord.gg/vFpnTUSD4H
+https://discord.gg/G36MhwWAd3
