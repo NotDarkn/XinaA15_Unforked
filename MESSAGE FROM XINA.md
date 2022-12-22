@@ -1,14 +1,17 @@
-**This jailbreak is made by the developer @xina520, grammar corrected by discord user "alucard#2478"** (Thanks alucard for making my job easier!)
+# **This jailbreak is made by the developer @xina520.** 
+# Most of the grammar was corrected by Discord user: "alucard#2478" (Thanks alucard for making my job easier!)
 
 **What developers need to know**
 
 After you download this jailbreak, you will need to install the IPA through TrollStore on your device, if not you will NOT be able to open this jailbreak and use it.
 
 **Supported development environments**
+
 Compatible with all development environments you currently use.
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
 
 **Environment repair**
+
 If your environment is damaged, you can restart your phone, turn on the "rebuild jailbreak rnvironment" switch, and then press "open jailbreak" to re-jailbreak.
 
 If there is a Sileo 522 error, try to repair the sileo language. If it's invalid for you, try to restore phone settings.
