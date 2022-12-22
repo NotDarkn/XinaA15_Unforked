@@ -7,9 +7,11 @@ This GitHub is meant to fix all of the grammar and spelling mistakes created by 
 All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
 
 # Please make sure to read the following files:
-- MESSAGE FROM XINA.md
-- SUPPORTED.md
-- WARNINGS.md
+- .INSTALL.md (How to install XinaA15)
+- .UPDATE.md (How to update XinaA15)
+- MESSAGE FROM XINA.md (Developer's Message)
+- SUPPORTED.md (Supported devices/iOS list)
+- WARNINGS.md (All warnings for XinaA15)
 
 # Files unaffected:
 - Sileo IPA's
