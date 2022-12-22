@@ -1,14 +1,11 @@
 # **This jailbreak is made by the developer @xina520.** 
 # Most of the grammar was corrected by Discord user: "alucard#2478" (Thanks alucard for making my job easier!)
 
-**What developers need to know**
+**Warning!**
 
-After you download this jailbreak, you will need to install the IPA through TrollStore on your device, if not you will NOT be able to open this jailbreak and use it.
+XinaA15 currently supports Sileo, ssh, libsubstitiute, Libhooker, Procursus repo, BigBoss repo, Tweak injection, and etc.
 
-**Supported development environments**
-
-Compatible with all development environments you currently use.
-Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
+If your storage in iCloud is full, the permanent signature will become invalid after the space is restarted. It may also lead to some other problems. The current cause is unknown (to be fixed.)
 
 **Environment repair**
 
@@ -16,30 +13,12 @@ If your environment is damaged, you can restart your phone, turn on the "rebuild
 
 If there is a Sileo 522 error, try to repair the sileo language. If it's invalid for you, try to restore phone settings.
 
-**Connecting to the device**
+**Supported development environments**
 
-Configure the complete ssh port 22
+Compatible with all development environments you currently use.
+Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
 
-Configure SSH password free root password on the console (default: alpine) 
-
-Unable to repair password temporarily
-
-`ssh-copy-id -i $HOME/.ssh/id_ rsa` 
-
-Pub root @ your ip
-
-**Warning!**
-
-The current version(s) of XinaA15 only support the following:
-- iOS 15.0 to 15.1.1
-- Devices: A12 to A15 and M1
-
-This is a rootless jailbreak, and while it may support some tweaks, MANY tweaks are still currently unsupported and will need to be updated to support rootless environments.
-
-XinaA15 currently supports Sileo, ssh, libsubstitiute, Libhooker, Procursus repo, BigBoss repo, Tweak injection, and etc.
-
-If your storage in iCloud is full, the permanent signature will become invalid after the space is restarted. It may also lead to some other problems. The current cause is unknown (to be fixed.)
-
+**Developers!**
 There's no need to change the theos or change anything, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing needs to be changed)
 
 Full support for make install
@@ -88,7 +67,6 @@ Launchdhook (can't be ended) function hook launch
 jailbreak_ safe (non ending) function can be started again without exploiting vulnerabilities
 
 Jailbreakd (cannot be ended) Function signature and all signing permission related operations
-
 
 ### **BUGS**
 White icon of known third-party system process (will be solved in future update)
