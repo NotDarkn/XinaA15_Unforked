@@ -19,6 +19,7 @@ Compatible with all development environments you currently use.
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
 
 **Developers!**
+
 There's no need to change the theos or change anything, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing needs to be changed)
 
 Full support for make install
