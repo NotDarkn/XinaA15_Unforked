@@ -5,6 +5,10 @@ If you encounter any bootloops, broken files, and etc, it is most likely your fa
 
 Please take the proper precautions above.
 
+# AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
+If you don't check this, you are more likely to run into issues or even break your device.
+Please check the [supported devices](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) list before doing anything.
+
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 
 This jailbreak was **NOT** made for normal public use, and because of that you WILL encounter issues at some point.
