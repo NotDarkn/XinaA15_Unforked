@@ -1,3 +1,10 @@
+# QUICK NOTE:
+Xina520 is not responsible for any damages that encounter on your device.
+
+If you encounter any bootloops, broken files, and etc, it is most likely your fault.
+
+Please take the proper precautions above.
+
 # BE WARNED, THIS IS A IN-DEVELOPMENT JAILBREAK.
 
 This jailbreak was **NOT** made for normal public use, and because of that you WILL encounter issues at some point.
@@ -16,9 +23,17 @@ Please make sure to take the following precautions to prevent any damage on your
 
 All in all, don't be retarded and use your common sense.
 
-# QUICK NOTE:
-Xina520 is not responsible for any damages that encounter on your device.
+# SUPPORTED DEVICES & iOS:
+**Any A12+ device running the following iOS versions:**
+- iOS 15.0
+- iOS 15.0.1
+- iOS 15.0.2
+- iOS 15.1
+- iOS 15.1.1
 
-If you encounter any bootloops, broken files, and etc, it is most likely your fault.
-
-Please take the proper precautions above.
+**All devices running A12 up to the A15 or M1, or any of the example devices:**
+- iPhone XR (A12)
+- iPhone XS (A12)
+- iPhone 11 (A13)
+- iPhone 12 (A14)
+- iPhone 13 (A15)
