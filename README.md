@@ -6,7 +6,7 @@ It is unsure if XinaA15 will add more versions to support XinaA15, so time will 
 This GitHub is meant to fix all of the grammar and spelling mistakes created by Xina and Jacksight, as they are Chinese and are NOT native English speakers.
 All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
 
-# Please make sure to read the following files in this GitHub:
+# Please make sure to read the following files:
 - MESSAGE FROM XINA.md
 - WARNINGS.md
 
