@@ -22,18 +22,3 @@ Please make sure to take the following precautions to prevent any damage on your
 - Do not install any dangerous tweaks from any dangerous repos, such as trying to join piracy.
 
 All in all, don't be retarded and use your common sense.
-
-# SUPPORTED DEVICES & iOS:
-**Any A12+ device running the following iOS versions:**
-- iOS 15.0
-- iOS 15.0.1
-- iOS 15.0.2
-- iOS 15.1
-- iOS 15.1.1
-
-**All devices running A12 up to the A15 or M1, or any of the example devices:**
-- iPhone XR (A12)
-- iPhone XS (A12)
-- iPhone 11 (A13)
-- iPhone 12 (A14)
-- iPhone 13 (A15)
