@@ -75,21 +75,3 @@ White icon of known third-party system process (will be solved in future update)
 If Xina has more to say or update in his message, I will update this .txt.
 
 If you have any bugs, please report to either the official XinaA15 GitHub or join their Discord.
-
-## Version 1.1.3.6 changelog: 
- 
-* Fixing the problem of usb stuck
-
-* Fix my program sharing send file problem
-
-* Fix 1.1.3.5 Applist does not work properly
-
-* Fix the problem of translation failure of the system
-
-* Fix some possible restart problems
-
-* Fix testlight failing to update
-
-* Fix the problem of third-party programs failing to inject
-
-To install the new version, restart the phone and select "reinstall the jailbreak environment" and jailbreak
