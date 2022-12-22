@@ -7,7 +7,7 @@ This GitHub is meant to fix all of the grammar and spelling mistakes created by 
 All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
 
 # Please make sure to read the following files:
-- [All Warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
+- [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 - [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.INSTALL.md)
 - [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.UPDATE.md)
