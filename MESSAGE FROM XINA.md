@@ -11,7 +11,7 @@ If your storage in iCloud is full, the permanent signature will become invalid a
 
 If your environment is damaged, you can restart your phone, turn on the "rebuild jailbreak rnvironment" switch, and then press "open jailbreak" to re-jailbreak.
 
-If there is a Sileo 522 error, you can try clearing Sileo's cache. If it's still invalid for you, try to restore/reset your iPhone/iPad settings.
+If you encounter a Sileo 522 error, you can try clearing Sileo's cache to fix it. If it's still erroring however, try resetting your iPhone/iPad settings.
 
 **Supported development environments**
 
