@@ -3,36 +3,49 @@
 
 **Warning!**
 
-XinaA15 currently supports Sileo, ssh, libsubstitiute, Libhooker, Procursus repo, BigBoss repo, Tweak injection, and etc.
+XinaA15 is a in-development jailbreak. This jailbreak is **NOT** meant for normal public use. Please use this with precaution.
+- [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md)
+- [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md)
 
-If your storage in iCloud is full, the permanent signature will become invalid after the space is restarted. It may also lead to some other problems. The current cause is unknown (to be fixed.)
+**Currently supported:**
+XinaA15 currently supports many of the following:
+- Sileo
+- Built-in SSH 
+- libsubstitiute
+- libhooker
+- Procursus repo
+- BigBoss repo
+- Tweak injection
+- and etc.
 
 **Updating and Error Fixing**
 
-If your environment is damaged, you can restart your phone, turn on the "rebuild jailbreak rnvironment" switch, and then press "open jailbreak" to re-jailbreak.
+If your jailbraek is damaged in any way posible, you can restart your phone, turn on the "rebuild jailbreak rnvironment" toggle, and then press "openJailbreak" to re-jailbreak.
 
 If you encounter a Sileo 522 error, you can try clearing Sileo's cache to fix it. If it's still erroring however, try resetting your iPhone/iPad settings.
 
 **Supported development environments**
 
-Compatible with all development environments you currently use.
+XinaA15 is currently compatible with all of the development environments you currently use.
+
 Currently, the debug server fully supports the debugging of additional processes (you don't need to do anything.)
 
 **Developers!**
 
 There's no need to change the theos or change anything, but what you may need to change is the relevant path in your code (the path in the deb package does not need to be changed, and nothing needs to be changed)
 
-Full support for make install
-Full support for make uninstalll
-Full support for make do
+- Full support for make install
+- Full support for make uninstalll
+- Full support for make do
 
+**Installaton of iOSOpendev:**
 For the normal use and installation of iOSOpendev, no changes are required.
 
-Compile the log. 
+1. Compile the log. 
 
 During the compilation process, the console will display the current log. Please ignore it.
 
-If the console displays as follows:
+2. If the console displays as follows:
 
 ldid: Unknown header magic
 
@@ -40,9 +53,11 @@ Are you sure that is a Mach-O?
 
 ldid: operator(): No such file or directory
 
-make uninstall
+3. Do the following:
 
-make installl
+- make uninstall
+
+- make installl
 
 **Jailbreak Directory**
 
@@ -70,6 +85,8 @@ jailbreak_ safe (non ending) function can be started again without exploiting vu
 Jailbreakd (cannot be ended) Function signature and all signing permission related operations
 
 ### **Extra**
+
+If your storage in iCloud is full, the permanent signature will become invalid after the space has become full. This could also possibly cause some other problems. The cause for why this even happens is unknown, however it is to be fixed.
 
 If Xina has more to say or update in his message, I will update this .txt.
 
