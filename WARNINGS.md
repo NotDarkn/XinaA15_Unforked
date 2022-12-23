@@ -17,7 +17,7 @@ Not only that, but this jailbreak is a **rootless jailbreak.** There will be **M
 
 **Issues that COULD occur if used wrong:**
 - Device bootlooping (e.g. Apple Logo repeatedly)
-- Data loss (e.g. e 4M gold to 0 gold)
+- Data loss in apps or iOS (e.g. e 4M gold to 0 gold)
 - Deletion of System Apps (e.g. Settings gone)
 - Future jailbreaks breaking (e.g. can't jailbreak)
 - Accidental iOS updating (e.g. iOS 15.1 to 16.2)
