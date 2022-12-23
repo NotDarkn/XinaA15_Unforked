@@ -43,9 +43,7 @@ For the normal use and installation of iOSOpendev, no changes are required.
 
 1. Compile the log. 
 
-During the compilation process, the console will display the current log. Please ignore it.
-
-2. If the console displays as follows:
+During the compilation process, the console will display the current log. Please ignore it:
 
 ldid: Unknown header magic
 
@@ -53,7 +51,7 @@ Are you sure that is a Mach-O?
 
 ldid: operator(): No such file or directory
 
-3. Do the following:
+2. After that, do the following:
 
 - make uninstall
 
