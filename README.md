@@ -24,3 +24,6 @@ https://github.com/jacksight/xina520_official_jailbreak
 
 2. Join their Discord Server (unofficial, the official one was deleted by Jack):
 https://discord.gg/G36MhwWAd3
+
+3. Join the official r/jailbreak Discord Server and go to #xinaa15 OR #jailbreak:
+https://discord.gg/jb
