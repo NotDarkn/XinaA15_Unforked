@@ -7,7 +7,7 @@ XinaA15 currently supports Sileo, ssh, libsubstitiute, Libhooker, Procursus repo
 
 If your storage in iCloud is full, the permanent signature will become invalid after the space is restarted. It may also lead to some other problems. The current cause is unknown (to be fixed.)
 
-**Environment repair**
+**Updating and Error Fixing**
 
 If your environment is damaged, you can restart your phone, turn on the "rebuild jailbreak rnvironment" switch, and then press "open jailbreak" to re-jailbreak.
 
