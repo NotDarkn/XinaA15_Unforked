@@ -26,4 +26,4 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 [Redirect to Unofficial XinaA15 Server](https://discord.gg/G36MhwWAd3)
 
 3. Join the official r/jailbreak Discord Server and go to #xinaa15 OR #jailbreak:
-[Redirect to r/jailbreak Discord](https://discord.gg/jb)
+[Redirect to r/Jailbreak Discord](https://discord.gg/jb)
