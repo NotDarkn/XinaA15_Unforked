@@ -11,7 +11,7 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
 - [How to install XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.INSTALL.md) | .INSTALL.md
 - [How to update XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/.UPDATE.md) | .UPDATE.md
-- [Message from the Dev](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | .MESSAGE FROM XINA.md
+- [Message from the Dev](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 # Files unaffected:
 - Sileo for Xina IPA's from jacksight
@@ -20,10 +20,10 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 
 # Need support for XinaA15?
 1. Create an issue on the official XinaA15 GitHub:
-https://github.com/jacksight/xina520_official_jailbreak
+[Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak)
 
 2. Join their Discord Server (unofficial, the official one was deleted by Jack):
-https://discord.gg/G36MhwWAd3
+[Redirect to Unofifical XinaA15 Server](https://discord.gg/G36MhwWAd3)
 
 3. Join the official r/jailbreak Discord Server and go to #xinaa15 OR #jailbreak:
-https://discord.gg/jb
+[Redirect to r/jailbreak Discord](https://discord.gg/jb)
