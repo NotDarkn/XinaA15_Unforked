@@ -17,6 +17,7 @@ Not only that, but this jailbreak is a **rootless jailbreak.** There will be **M
 
 **Issues that COULD occur if used wrong:**
 - **Device bootlooping** - (ex: Apple Logo repeatedly booting)
+- **Respring looping** - (ex: Forever loading spring icon)
 - **Data loss in apps or iOS** - (ex: Save files, in-game data)
 - **Deletion of System Apps** - (ex: Settings, Messages, gone)
 - **Future jailbreaks breaking** - (ex: can't jailbreak anymore)
