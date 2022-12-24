@@ -24,8 +24,8 @@ Not only that, but this jailbreak is a **rootless jailbreak.** There will be **M
 - **Accidental iOS updating** - (ex: Updated to 16.2)
 
 Please make sure to take the following precautions to prevent any damage on your iPhone device:
-- **Backup your iPhone** through iTunes, you may encrypt the backup or not, up to you.
-- **Save as many blobs** as you can, it is recommened to use the AutoTSS bot from the r/jailbreak Discord.
-- **Do not install any dangerous tweaks** from any dangerous repos, such as trying to join piracy.
+- **Backup your iPhone.** - You can use iTunes on Windows or Finder on macOS to backup your phone.
+- **Save as many blobs as you can.** - Saving blobs will allow you to downgrade back to a iOS version when needed.
+- **Do not install any dangerous tweaks.** - Downloading dangerous tweaks / stuff from piracy repos may endanger your phone.
 
-All in all, don't be retarded and use your common sense.
+All in all, **don't be retarded and use your common sense.**
