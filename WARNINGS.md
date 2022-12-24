@@ -1,9 +1,9 @@
 # QUICK NOTE:
 Xina520 is not responsible for any damages that encounter on your device.
 
-If you encounter any bootloops, broken files, and etc, it is most likely your fault.
+If you choose to jailbreak using XinaA15, YOU are the person who is responsible with any damages that encounter on your device.
 
-Please take the proper precautions above.
+Please take the proper precautions below.
 
 # AS USUAL, CHECK IF YOUR DEVICE IS SUPPORTED
 If you don't check this, you are more likely to run into issues or even break your device.
