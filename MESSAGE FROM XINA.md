@@ -20,7 +20,7 @@ XinaA15 currently supports many of the following:
 
 **Updating and Error Fixing**
 
-If your jailbraek is damaged in any way posible, you can restart your phone, turn on the "rebuild jailbreak rnvironment" toggle, and then press "openJailbreak" to re-jailbreak.
+If your jailbreak is damaged in any way possible, you can restart your phone, turn on the "rebuild jailbreak environment" toggle, and then press "openJailbreak" to re-jailbreak.
 
 If you encounter a Sileo 522 error, you can try clearing Sileo's cache to fix it. If it's still erroring however, try resetting your iPhone/iPad settings.
 
