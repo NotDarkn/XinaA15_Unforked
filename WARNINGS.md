@@ -1,7 +1,7 @@
 # QUICK NOTE:
 Xina520 is not responsible for any damages that encounter on your device.
 
-If you choose to jailbreak using XinaA15, YOU are the person who is responsible with any damages that encounter on your device.
+If you choose to jailbreak using XinaA15, **YOU** are the person who is responsible with any damages that encounter on your device.
 
 Please take the proper precautions below.
 
