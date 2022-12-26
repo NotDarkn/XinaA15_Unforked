@@ -22,7 +22,7 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 
 # Need support for XinaA15?
 1. Create an issue on the official XinaA15 GitHub:
-[Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak)
+[Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak/issues/new)
 
 2. Join their Discord Server (unofficial, the official one was deleted by Jack):
 [Redirect to Unofficial XinaA15 Server](https://discord.gg/G36MhwWAd3)
