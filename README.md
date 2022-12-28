@@ -16,9 +16,9 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 - [Message from the Dev](https://github.com/NotDarkn/XinaA15/blob/main/MESSAGE%20FROM%20XINA.md) | MESSAGE FROM XINA.md
 
 # Files unaffected:
-- Sileo x Xina IPA's from jacksight's GitHub
-- Any of the Xina IPA's made by Xina520 in jacksight's GitHub
-- Majority of information originally found in jacksight's GitHub
+- All Sileo (for Xina) IPA's from either Sileo or jacksight
+- All of the Xina jailbreak IPA's made by Xina520/jacksight's GitHub
+- Majority to almost all of the information originally found in the .MD's
 
 # Need support for XinaA15?
 1. Create an issue on the official XinaA15 GitHub:
