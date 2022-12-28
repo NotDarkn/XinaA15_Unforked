@@ -17,14 +17,14 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 
 # Files unaffected:
 - Sileo x Xina IPA's from jacksight's GitHub
-- Any of the Xina IPA's made by Xina520 in jcksight's GitHub
+- Any of the Xina IPA's made by Xina520 in jacksight's GitHub
 - Majority of information originally found in jacksight's GitHub
 
 # Need support for XinaA15?
 1. Create an issue on the official XinaA15 GitHub:
 [Redirect to jacksight/xina520_official_jailbreak](https://github.com/jacksight/xina520_official_jailbreak/issues/new)
 
-2. Join their Discord Server (unofficial Discord, the official Discord was deleted by Jack):
+2. Join their Discord Server (unofficial Discord, the official Discord was deleted by jack):
 [Redirect to Unofficial XinaA15 Server](https://discord.gg/G36MhwWAd3)
 
 3. Join the official r/jailbreak Discord Server and go to #xinaa15 OR #jailbreak:
