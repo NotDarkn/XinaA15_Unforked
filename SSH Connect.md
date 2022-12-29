@@ -11,8 +11,6 @@ After that, put: `ssh root@(your IP)`
 
 # If you need to repair your SSH password temporarily:
 
-Input the following command and enter:
-
-`ssh-copy-id -i $HOME/.ssh/id_ rsa` 
+Input the following command and press enter: `ssh-copy-id -i $HOME/.ssh/id_ rsa` 
 
 Put: `ssh root@(your IP)`
