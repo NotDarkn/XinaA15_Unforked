@@ -1,5 +1,5 @@
 # Quick Note:
-**I have never used SSH before, so unfortunately I will just be copying and pasting and trying to fix any grammar and spelling mistakes I can identify.**
+**I have never used SSH before.** A lot was copied & pasted from **"MSG from Xina.md"** and then fixed by XinaA15 users.
 
 # How to connect your XinaA15 device through SSH
 
