@@ -5,7 +5,7 @@
 
 Configure the SSH to be connected to the port: `22` (this should be 22 by default)
 
-If asked for a SSH password, input the default password: `alpine` (this should not be changed)
+If asked for a SSH password, input the default password: `alpine`
 
 After that, input: `ssh root@(your IP)`
 
