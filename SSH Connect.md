@@ -3,11 +3,11 @@
 
 # How to connect your XinaA15 device through SSH
 
-Configure the SSH to be connected to the port: **22**
+Configure the SSH to be connected to the port: `22` (this should be 22 by default)
 
-Configure the SSH password to be a free root password, the default password is: **alpine**
+If asked for a SSH password, input the default password: `alpine` (this should not be changed)
 
-Put root @(your IP)
+After that, put: `ssh root@(your IP)`
 
 # If you need to repair your SSH password temporarily:
 
@@ -15,4 +15,4 @@ Input the following command and enter:
 
 `ssh-copy-id -i $HOME/.ssh/id_ rsa` 
 
-Put root @(your IP)
+Put: `ssh root@(your IP)`
