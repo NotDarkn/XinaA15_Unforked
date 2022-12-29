@@ -7,10 +7,10 @@ Configure the SSH to be connected to the port: `22` (this should be 22 by defaul
 
 If asked for a SSH password, input the default password: `alpine` (this should not be changed)
 
-After that, put: `ssh root@(your IP)`
+After that, input: `ssh root@(your IP)`
 
 # If you need to repair your SSH password temporarily:
 
 Input the following command and press enter: `ssh-copy-id -i $HOME/.ssh/id_ rsa` 
 
-Put: `ssh root@(your IP)`
+After that, input: `ssh root@(your IP)`
