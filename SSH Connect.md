@@ -1,5 +1,5 @@
 # Quick Note:
-**I have never used SSH before.** The majority of text here was copied & pasted from **"MSG from Xina.md"** and then community fixed by XinaA15 users such as "The Bot Guy".
+**I have never used SSH before.** The majority of text here was copied & pasted from **"MSG from Xina.md"** and then community fixed by XinaA15 users such as **"The Bot Guy"**.
 
 # How to connect your XinaA15 device through SSH
 
