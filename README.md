@@ -5,7 +5,7 @@ It's currently uncertain if Xina520 will add additional support for more iOS ver
 **XinaA15 is a jailbreak meant for developers. The Xina jailbreak is not intended for normal public use. If you encounter any issues or errors upon using the Xina jailbreak then please stop using it and leave it alone for the developers.**
 
 # This is not the official XinaA15 GitHub!
-This GitHub is meant to fix all of the grammar and spelling mistakes created by Xina and jacksight, as they are Chinese and are NOT native English speakers.
+This GitHub is meant to fix all of the grammar and spelling mistakes created by Xina and jacksight, as they are Chinese and are NOT fluent nor' native English speakers.
 All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
 
 # Please make sure to read the following files:
