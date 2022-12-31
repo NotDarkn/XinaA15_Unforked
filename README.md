@@ -31,4 +31,7 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 [Redirect to r/Jailbreak Discord](https://discord.gg/jb)
 
 # Note to anyone still reading:
-**I'm open to fixing any issues that are in this GitHub, or any of the information found in the .md's!** Just send me a DM on Discord, ping me on the r/jailbreak Discord server, or create an isue in this GitHub. From there, I'll read your message and fix any issues or information.
+**I'm open to fixing any issues that are in this GitHub, or any of the information found in the .md's!** Just tell me on any of the platforms here:
+- Ping me in the r/jailbreak Discord Server
+- DM me on Discord (notdarkn#7188)
+- Create an issue on this [GitHub](https://github.com/NotDarkn/XinaA15/issues)
