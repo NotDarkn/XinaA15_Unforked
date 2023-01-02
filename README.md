@@ -1,4 +1,4 @@
-# XinaA15 Reworded
+# XinaA15 Unforked Reworded
 XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13.
 It's currently uncertain if Xina520 will add additional support for more iOS versions in the future.
 
