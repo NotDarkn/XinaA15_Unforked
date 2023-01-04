@@ -10,6 +10,8 @@ All of the release notes, README's, and more are all re-created in this GitHub t
 
 This GitHub is **NOT** a fork of the official GitHub, if you would like to use the forked XinaA15 Reworded GitHub just in case for your own security/safety, go here: [XinaA15 Forked Reworded](https://github.com/NotDarkn/XinaA15)
 
+This unforked version of the GitHub will no longer be getting updates, please use the forked version for the time-being. Between now and a few days, this will be turned into a public archive.
+
 # Please make sure to read the following files:
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
 - [Supported devices/iOS](https://github.com/NotDarkn/XinaA15/blob/main/SUPPORTED.md) | SUPPORTED.md
