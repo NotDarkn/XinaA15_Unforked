@@ -1,3 +1,7 @@
+# This unforked version of XinaA15 Reworded is being turned into a public archive.
+
+Please start using the forked version of the XinaA15 Reworded GitHub: [XinaA15 Forked Reworded](https://github.com/NotDarkn/XinaA15)
+
 # XinaA15 Unforked Reworded
 XinaA15 is a jailbreak made for iOS 15.0 up to 15.1.1. Currently, it is made with A12+ devices in mind, such as the iPhone XR, XS, 11, 12, and 13.
 It's currently uncertain if Xina520 will add additional support for more iOS versions in the future.
@@ -9,8 +13,6 @@ This GitHub is meant to fix all of the grammar and spelling mistakes created by 
 All of the release notes, README's, and more are all re-created in this GitHub to be more "understandable" for English speakers.
 
 This GitHub is **NOT** a fork of the official GitHub, if you would like to use the forked XinaA15 Reworded GitHub just in case for your own security/safety, go here: [XinaA15 Forked Reworded](https://github.com/NotDarkn/XinaA15)
-
-This unforked version of the GitHub will no longer be getting updates, please use the forked version for the time-being. Between now and a few days, this will be turned into a public archive.
 
 # Please make sure to read the following files:
 - [All warnings of XinaA15](https://github.com/NotDarkn/XinaA15/blob/main/WARNINGS.md) | WARNINGS.md
